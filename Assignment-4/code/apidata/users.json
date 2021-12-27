@@ -6,14 +6,14 @@
             "location":"Bengaluru",
             "likes":64,
             "description": "Kick start your career",
-            "PostImage": "./Images/Image-first.jpg",
+            "PostImage": "./images/four.jpeg",
             "Date":"26-06-2021"
             },
             {"name":"Neeraj",
             "location":"Pune",
             "likes":30,
             "description": "Sample Description",
-            "PostImage": "./Images/image-second.jpg",
+            "PostImage": "./images/five.jpg",
             "Date":"25-07-2021"
             
             },
@@ -21,7 +21,7 @@
             "location":"Hyderabad",
             "likes":30,
             "description": "Sample Description for Post",
-            "PostImage": "./Images/image-three.jpg",
+            "PostImage": "./images/six.jpg",
             "Date":"29-07-2021"
             }
             ]
